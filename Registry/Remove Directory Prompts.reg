@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; Powershell
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\Powershell]
+
+; CMD
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\cmd]

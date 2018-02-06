@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Agent Auto Logon
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"DefaultUserName"="username"
+"DefaultPassword"="password"
+"AutoAdminLogon"="1"
